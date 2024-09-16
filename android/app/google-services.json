@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109286978284",
+    "project_id": "mountainpeople-bf268",
+    "storage_bucket": "mountainpeople-bf268.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109286978284:android:66df0a559399dadd3aebc9",
+        "android_client_info": {
+          "package_name": "io.app.mountain_people"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLFPsNZyaKrTEubvfNcufmzp3i81BQG8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
